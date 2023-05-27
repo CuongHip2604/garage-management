@@ -26,7 +26,7 @@ yarn start
 
 ## Bước 4
 
-Thay đổi đường dẫn API trong postman và trong project thành `http://localhost:1337`.
+Thay đổi đường dẫn API trong postman và trong project thành `http://localhost:1337/api`.
 
 ## Tài khoan admin
 ```
