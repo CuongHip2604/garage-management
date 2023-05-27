@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgarage_management=self.webpackChunkgarage_management||[]).push([[2492],{9452:(r,n,e)=>{e.r(n),e.d(n,{default:()=>_});var t=e(67294),s=e(95489),P=e.n(s),a=e(87751),E=e(53219);const _=()=>t.createElement(s.CheckPagePermissions,{permissions:a.Z.settings["transfer-tokens"].read},t.createElement(E.Z,null))}}]);
