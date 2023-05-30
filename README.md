@@ -26,4 +26,11 @@ yarn start
 
 ## Bước 4
 
-Thay đổi đường dẫn API trong postman và trong project thành `http://localhost:1337`.
+Thay đổi đường dẫn API trong postman và trong project thành `http://localhost:1337/api`.
+
+## Tài khoan admin
+```
+username: super.admin
+email: super.admin@grr.la
+password: Super@admin1
+```
